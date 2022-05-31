@@ -111,6 +111,26 @@ h1>a>img{
     width: 100%;
     height: 883px;
     background-size: cover;
+    
+}
+.bn_text{
+    width: 1320px;
+    margin: 0 auto;
+    padding-top:450px;
+    
+}
+.bn_text>h1{
+    font-size: 36px;
+    font-family:'Noto Serif', serif;
+    line-height: 100%;
+    padding-bottom: 20px;
+    font-weight: 500;
+    
+}
+.bn_text>h2{
+    font-size: 20px;
+    color: #666;
+    font-weight: 400;
 }
 
 /*q&a*/
@@ -219,12 +239,12 @@ th,td{
     text-align: right;
     padding: 10px 0;
     padding-right: 108px;
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 .search{
     border: 1px #333 solid;
     padding: 8px 10px;
-    margin-left: 45px;
+    margin-left: 110px;
     width: 180px;
     height: 20px;
     border-radius: 10px;
@@ -233,16 +253,16 @@ th,td{
 }
 .sel{
     float: right;
-    margin-right: 45px;
+    margin-right: 110px;
     border: none;
 }
 
 
 .review_content{
-    padding: 100px 30px;
-    width: 1000px;
+    padding: 80px 0;
+    width: 1100px;
     box-sizing: border-box;
-    margin: 0 130px;
+    margin: 0 108px;
 }
 .title{
     overflow: hidden;
@@ -256,7 +276,7 @@ th,td{
 }
 .plus{
     float: right;
-    margin-right: 100px;
+    margin-right: 40px;
 }
 .text_info{
     padding: 20px;

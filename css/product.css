@@ -158,13 +158,13 @@ h1>a>img{
 }
 .tabs>li{
     float: left;
-    padding: 50px 10px 30px;
 }
 .tabs>li>a{
     display:inline-block;
     padding: 3px 15px;
     background-color: #eee;
     border-radius: 17px;
+    margin: 50px 10px 30px;
 }
 
 .tab_content{

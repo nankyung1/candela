@@ -255,6 +255,9 @@ h1>a>img{
 }
 
 /*location*/
+#location{
+    background-color: #eaeef1;
+}
 #loca_inner{
     width: 1320px;
     margin: 0 auto;

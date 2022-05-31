@@ -255,12 +255,14 @@ h1>a>img{
     font-size: 18px;
     color: #fff;
     padding: 5px 0;
-    border: #73232c 2px solid;
+    border: #eee 2px solid;
     box-sizing: border-box;
 }
 #collection>p>a:hover{
     background-color: #73232c;
+    border: #73232c 2px solid;
     color: #fff;
+    transition: all 0.5s;
 }
 #costom{
     width: 1320px;
