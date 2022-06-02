@@ -175,15 +175,15 @@ h1>a>img{
     color: #666;
     padding: 10px 0 50px;
 }
-.item>h2{
+.item h2{
   padding: 10px 0;
 }
-.item>h3{
+.item h3{
     color: #666;
     font-weight: 500;
 }
 
-.item>p{
+.item p{
     font-size: 16px;
 }
 .new{
